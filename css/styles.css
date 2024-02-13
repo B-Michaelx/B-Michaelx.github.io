@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right,#f8ffb8 20%,#f4ff91d1 50%,#e4fff9);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+body h1{
+   color: #efb810;
+}
+body p {
+    color: #0000FF;
+}
